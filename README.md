@@ -34,7 +34,7 @@ This project aims to compare the performance of various supervised learning meth
 
 1. Ensure that you have the required dependencies installed.
 2. Place the `dataset_assignment1.csv` file in the same directory as the Python script.
-3. Run the `comp534_likhitha_mittoor.py` script to execute the project.
+3. Run the `comp534_likhitha_mittoor.ipynb` script to execute the project.
 
 ## Results
 
