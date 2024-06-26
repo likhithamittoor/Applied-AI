@@ -67,6 +67,7 @@ Build and compare Multi-Layer Perceptron (MLP) and Convolutional Neural Network 
 - EMNIST "Balanced" dataset
 - Handwritten character images
 - Preprocessed and split into training, validation, and test sets
+- Before we run the Model download the dataset from Kaggle (Extended MNIST,https://www.kaggle.com/datasets/crawford/emnist)
 
 ## Dependencies
 - Python 3.x, NumPy, Pandas, Matplotlib, Seaborn, TensorFlow, Scikit-learn
